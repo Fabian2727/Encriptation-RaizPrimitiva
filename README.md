@@ -14,3 +14,8 @@ En el archivo .py nombrado RaizPrimitiva se encuentra el programa que calcula la
           -Paso 1: Se verifica si son del mismo tamaño. Si lo son se pasa al Paso 2. Sino se retorna False
           -Paso 2: Se usa la función .sort() para ordenar la list1 
           -Paso 3: Se comparan las dos listas y se devuelve si son iguales o no (True o False)
+          
+          
+
+En el archivo CalcularExp.py se encuentra el programa para hallar el valor de x en la operación g** x mod b = c 
+- Se usa la función llamada calcular que realizará una exponenciación modular con valores de x = 1, 2, 3, ... hasta que dicha exponenciación modular de el resultado c
