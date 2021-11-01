@@ -11,6 +11,6 @@ En el archivo .py nombrado RaizPrimitiva se encuentra el programa que calcula la
           list2 --> esta lista almacena los valores de 1,2,3,..p-1
  Mediante la función comparar veremos si las dos listas son iguales y de ser así g es la raíz primitiva de p, caso contrario se aumentará en uno (g+1) a la variable g y se repetirán las operaciones hasta hallar la raíz.
 - comparar: esta funcion recibe por parámetro las dos listas de la función raizP, y las compara:
-          - Paso 1: Se verifica si son del mismo tamaño. Si lo son se pasa al Paso 2. Sino se retorna False
-          - Paso 2: Se usa la función .sort() para ordenar la list1 
-          - Paso 3: Se comparan las dos listas y se devuelve si son iguales o no (True o False)
+          -Paso 1: Se verifica si son del mismo tamaño. Si lo son se pasa al Paso 2. Sino se retorna False
+          -Paso 2: Se usa la función .sort() para ordenar la list1 
+          -Paso 3: Se comparan las dos listas y se devuelve si son iguales o no (True o False)
